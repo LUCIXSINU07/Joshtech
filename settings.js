@@ -17,7 +17,7 @@ global.location = "Nigeria, Osun, Osogbo" //ur location
 
 //new
 global.botname = 'QUEEN-PRIYA-V1👑' //ur bot name
-global.ownernumber = '2347063956321' //ur owner number
+global.ownernumber = '916290625264' //ur owner number
 global.ownername = 'Precious Ayomide👑' //ur owner name
 global.websitex = "https://youtube.com/@prexzyvilla"
 global.wagc = "https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"
@@ -28,7 +28,7 @@ global.packname = "Sticker By Prexzy"
 global.author = "Prexzy👑\n\n+2347063956321"
 global.creator = "2347063956321@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2347063956321"] // Premium User
+global.premium = ["916290625264"] // Premium User
 global.hituet = 0
 
 //bot sett
